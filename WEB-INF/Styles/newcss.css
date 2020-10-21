@@ -1,0 +1,50 @@
+
+#main_wrapper{
+    width:120%;
+    height:650px;
+        
+}
+header{
+    width:105%;
+    height:750px;
+    background-color:rosybrown;
+    margin-left:150px;
+}
+h1{
+    color:gold;
+    width:50%;
+    height:40px;
+    margin-left:400px; 
+    
+}
+#banner{
+    width:80%;
+    height:400px;
+    color:white;
+    margin:0px 0px 0px 30px;
+        
+}
+#image{
+   width:60%;
+    height:300px;
+    float:left;
+    margin: 0px 0px 0px 200px;
+}
+#background_image{
+     width:60%;
+    height:300px;
+}
+nav{
+    width:50%;
+    height:0px;
+    margin:50px 50px 50px 80px;
+    opacity:1;
+    padding:50px;
+    font-size:20px; 
+}
+#paragraph{
+    margin: 0px 0px 0px 120px;
+    height:200px;
+    padding:30px
+}
+

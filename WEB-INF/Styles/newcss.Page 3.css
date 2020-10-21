@@ -1,0 +1,47 @@
+#main_wrapper{
+    width:120%;
+    height:650px;
+        
+}
+#header{
+    width:105%;
+    height:750px;
+    margin-left:150px;
+}
+h1{
+    color:gold;
+    width:50%;
+    height:40px;
+    margin-left:400px; 
+}
+#background_image{
+     width:80%;
+    height:300px;
+    margin:0px 0px 0px 0px;
+}
+h1{
+    color:purple;
+    width:80%;
+    height:80px;
+    margin-left:250px; 
+}
+nav{
+    width:30%;
+    height:0px;
+    margin:0px 0px 0px 0px;
+    opacity:1.4;
+    padding:0px;
+    font-size:25px;
+    float:left;
+}#paragraph_3{
+    color:black;
+    width:50%;
+    height:40px;
+    margin: 0px 0px 0px 0px;
+    
+}
+section{
+    margin: 300px 0px 0px 0px;
+    color:black;
+    font-size:20px; 
+}

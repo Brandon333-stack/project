@@ -1,0 +1,35 @@
+#main_wrapper{
+    width:120%;
+    height:650px;
+        
+}
+#header{
+    width:105%;
+    height:700px;
+    background-color:rosybrown;
+    margin-left:150px;
+}
+h1{
+    color:black;
+    width:50%;
+    height:10px;
+    margin-left:350px; 
+    
+}
+#image{
+   width:90%;
+    height:300px;
+    margin: 0px 0px 0px 50px;
+}
+#background_image{
+     width:60%;
+    height:300px;
+}
+nav{
+    width:50%;
+    height:0px;
+    margin:50px 50px 50px 80px;
+    opacity:1.2;
+    padding:50px;
+    font-size:20px; 
+}

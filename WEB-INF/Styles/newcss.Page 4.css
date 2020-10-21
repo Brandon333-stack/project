@@ -1,0 +1,25 @@
+nav{
+    width:50%;
+    height:0px;
+    margin:50px 50px 50px 80px;
+    opacity:1.5;
+    padding:50px;
+    font-size:20px; 
+}
+section{
+    width:50%;
+    height:0px;
+    margin:0px 0px 0px 50px;
+    opacity:1.5;
+    padding:50px;
+    font-size:30px;
+}
+h1{
+  width:50%;
+    height:0px;
+    margin:0px 0px 0px 350px;
+    opacity:1.5;
+    padding:50px;
+    font-size:30px;  
+}
+
